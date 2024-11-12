@@ -1,6 +1,6 @@
 # Titanic Survival Prediction
 
-This project uses a classification model to predict the survival of Titanic passengers based on their characteristics.
+This project uses a random forest model to predict the survival of Titanic passengers based on their characteristics.
 
 ## Confusion Matrix
 ![Confusion Matrix](./confusion_matrix.png)
